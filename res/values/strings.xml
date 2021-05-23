@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Book Hub</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="close_drawer">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Name of the Developer</string>
+    <string name="aboutapp_fragment">This app uses Kotlin to build its functionality. The concepts
+                                    covered this app constitutes of: Layouts using XML
+                                    Kotlin Basics Activity Lifecycle Intents Fragments
+                                    and their lifecycle Lists using Recycler View
+                                    Connecting the app to the Internet GET and POST
+                                    Request using Volley Saving and Retrieving data in
+                                    SQL using Room In Android.</string>
+    <string name="add_to_favourites">Add to Favourites</string>
+    <string name="action_sort">Sort</string>
+    <string name="abishek_gautam">Abishek Gautam</string>
+    <string name="phone_number">+91-9999999999</string>
+    <string name="DevEmail">abhishekgautam690@gmail.com</string>
+</resources>
